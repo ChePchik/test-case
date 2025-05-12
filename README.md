@@ -32,6 +32,8 @@
 * Один из участников подгруппы презентует кратко (устно) проделанную работу (1 минута).
 
 ---
+Пример [требования](https://github.com/ChePchik/test-case/blob/main/requirements.md) и [тест-кейса](https://github.com/ChePchik/test-case/blob/main/example-test-case.md)
+---
 
 ### **Итог:**
 
